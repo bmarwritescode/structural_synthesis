@@ -1,0 +1,2 @@
+SKETCH version 1.7.5
+Benchmark = /Users/grumpy/Research/structural_synthesis/chess_example/result/sk_ChessboardTest/main.sk
